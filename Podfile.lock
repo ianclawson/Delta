@@ -18,7 +18,7 @@ DEPENDENCIES:
   - SQLite.swift (~> 0.11.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Crashlytics
     - Fabric
     - SDWebImage
@@ -34,4 +34,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 1d7f9ff69da571c7991621312e07aa4b16a0a074
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.8.4
